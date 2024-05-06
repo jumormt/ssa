@@ -30,7 +30,7 @@ $tree Lab-Exercise-1
 You need to set the `"program" to be the executable file of Lab 1, i.e., "${workspaceFolder}/bin/gTrav"` in
 launch.json in order to run and debug
 
-[[https://github.com/SVF-tools/Software-Security-Analysis/blob/slides/images/launch1.png|width=800px]]
+![][https://github.com/SVF-tools/Software-Security-Analysis/blob/slides/images/launch1.png]
 
 
 ### 2. Debug your code
@@ -39,14 +39,14 @@ launch.json in order to run and debug
 
 #### Step 1: Set the breakpoint where you want to stop your program and press the 'debug' button
 
-[[https://github.com/SVF-tools/Software-Security-Analysis/blob/slides/images/ass-1debug1.png|width=800px]]
+![][https://github.com/SVF-tools/Software-Security-Analysis/blob/slides/images/ass-1debug1.png]
 
 #### Step 2: 'Step over' /'Step in' / 'Step out' 
 - 'Step over' to the next step of your program
 - 'Step in' to the current line of your program
 - 'Step out' to mainstream of your program where you stepped in before
 
-[[https://github.com/SVF-tools/Software-Security-Analysis/blob/slides/images/ass-1debug2.png|width=800px]]
+![][https://github.com/SVF-tools/Software-Security-Analysis/blob/slides/images/ass-1debug2.png]
 
 #### Step 3: During your debugging, you can also watch the value of a variable you are interested in. 
 
