@@ -7246,7 +7246,7 @@
             (null == t && (t = !0),
             l.state.$book.toggleClass("without-animation", !t),
             l.state.$book.toggleClass("with-summary", e),
-            l.storage.set("sidebar", false));
+            l.storage.set("sidebar", o()));
         }
         function o() {
           return l.state.$book.hasClass("with-summary");
