@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+A more detailed wiki can be found at: https://github.com/SVF-tools/Software-Security-Analysis/wiki
