@@ -285,7 +285,3 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --c-danger-title: #c00;
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
-
-.sidebar {
-    display: block; /* Sidebar is hidden by default */
-}
