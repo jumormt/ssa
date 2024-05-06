@@ -287,5 +287,5 @@ pre:has(code.language-mermaid[data-processed="true"]) {
 }
 
 .sidebar {
-    display: none; /* Sidebar is hidden by default */
+    display: block; /* Sidebar is hidden by default */
 }
